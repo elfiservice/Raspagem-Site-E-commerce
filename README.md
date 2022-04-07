@@ -1,4 +1,5 @@
 # Raspagem-Site-E-commerce
+- https://www.youtube.com/watch?v=Rt-g2xVlGyI
 
 Varrer todos os nomes de cada modelo e o preço atual de cada um deles e na sequência, inserir estes dados dentro de uma planilha no excel.
 
